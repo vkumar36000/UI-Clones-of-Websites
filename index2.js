@@ -7,3 +7,5 @@ function changes(...el) {
 }
 
 console.log("new changes bro! here");
+
+console.log("new changes 02");
